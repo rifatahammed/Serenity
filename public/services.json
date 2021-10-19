@@ -2,7 +2,7 @@
   {
     "key": "1",
     "name": "Depression",
-    "details": "Let us know your words. Call us free",
+    "details": "Let us know your words. Call us for free",
     "img": "https://image.freepik.com/free-photo/african-american-woman-is-sitting-contemplating-something_53876-15313.jpg"
   },
   {
@@ -13,26 +13,26 @@
   },
   {
     "key": "3",
-    "name": "Frustation",
+    "name": "Anxiety disorders",
     "details": "Its ok to be frustated. Its part of the life. Contact us",
-    "img": "https://image.freepik.com/free-photo/shadow-trapped-male_23-2148019494.jpg"
+    "img": "https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80"
   },
   {
     "key": "4",
-    "name": "Insecurities",
-    "details": "Dont feel insecure. We're here for you.",
-    "img": "https://image.freepik.com/free-photo/shadow-trapped-male_23-2148019494.jpg"
+    "name": "Eating disorders",
+    "details": "Eating disorders include anorexia, bulimia nervosa. Take Help",
+    "img": "https://images.unsplash.com/photo-1573568533903-af2a285e9644?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "key": "5",
-    "name": "OCD",
-    "details": "Deal With OCD",
-    "img": "https://image.freepik.com/free-photo/shadow-trapped-male_23-2148019494.jpg"
+    "name": "Paranoia",
+    "details": "Paranoia is the irrational and persistent feeling. Call us",
+    "img": "https://images.unsplash.com/photo-1584205440814-f54eb974d024?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80"
   },
   {
     "key": "6",
-    "name": "OCD",
-    "details": "Deal With OCD",
-    "img": "https://image.freepik.com/free-photo/shadow-trapped-male_23-2148019494.jpg"
+    "name": "Schizophrenia",
+    "details": "Schizophrenia is a complex psychotic disorder characterised",
+    "img": "https://images.unsplash.com/photo-1618590067824-5ba32ca76ce9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
   }
 ]

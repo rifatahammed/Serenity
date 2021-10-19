@@ -16,7 +16,7 @@ const Menu = () => {
           expand="lg"
         >
           <Container>
-            <Navbar.Brand href="#home">SERENITY</Navbar.Brand>
+            <Navbar.Brand href="/home#home">SERENITY</Navbar.Brand>
             <Navbar.Toggle />
 
             <Navbar.Collapse className="justify-content-end">
