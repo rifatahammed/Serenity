@@ -5,6 +5,10 @@ import {
   signOut,
   onAuthStateChanged,
   createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
+  sendEmailVerification,
+  sendPasswordResetEmail,
+  updateProfile,
 } from "firebase/auth";
 import { useState, useEffect } from "react";
 import initializeAuthentication from "./../components/Firebase/firebase.init";

@@ -7,6 +7,7 @@ import Header from "./components/Shared/Header/Header";
 import NotFound from "./components/NotFound/NotFound";
 import Appoint from "./components/Appoint/Appoint";
 import Login from "./components/Login/Login";
+import EmailLogin from "./components/Login/EmailLogin/EmailLogin";
 import AuthProvider from "./contexts/AuthProvider";
 import PrivateRoute from "./components/Login/PrivateRoute/PrivateRoute";
 import AboutUs from "./components/AboutUs/AboutUs";
@@ -35,6 +36,9 @@ function App() {
               <Login></Login>
             </Route>
 
+            <Route path="/elogin">
+              <EmailLogin></EmailLogin>
+            </Route>
             <PrivateRoute path="/appoint/:appointId">
               <Appoint></Appoint>
             </PrivateRoute>
