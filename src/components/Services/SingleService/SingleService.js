@@ -8,7 +8,7 @@ const SingleService = ({ service }) => {
       <img src={img} alt="" />
       <h3>{name}</h3>
       <p className="px-3">{details}</p>
-      <Link to={`/aa/${key}`}>
+      <Link to={`/appoint/${key}`}>
         <button className="btn btn-warning">Take Help</button>
       </Link>
     </div>

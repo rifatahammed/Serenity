@@ -1,6 +1,18 @@
-#Serenity
+# Serenity
 
-- A mental Care support Platform
+Serenity is a online mental Health Care and Support Platform
+In Bangladesh , a huge population suffers and strugles with various mental problems, but most of them are not aware about mental health.
+Sometimes people hide their problems and treat mental health support as a taboo.
 
-Live site:
+This project will help people to tace care of their mental health and will bring social awareness gradually.
+
+Some key features of this project
+
+- Specific Login Using Google Account
+- Specific Login Using Other Email Account
+- Services about various problems
+- Enthusiastic Volenteers
+- Always There to hear your words
+
+Live site Link:
 https://serenity-mental-care.netlify.app/
