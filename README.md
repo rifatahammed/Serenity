@@ -10,9 +10,11 @@ Some key features of this project
 
 - Specific Login Using Google Account
 - Specific Login Using Other Email Account
+- Reset email feature
 - Services about various problems
+- Frequently Asked Questions about problems
 - Enthusiastic Volenteers
-- Always There to hear your words
+- Always out there to hear your words
 
 Live site Link:
 https://serenity-mental-care.netlify.app/

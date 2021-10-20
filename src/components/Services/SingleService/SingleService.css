@@ -2,10 +2,11 @@
   background-color: rgb(9, 70, 70);
   color: aliceblue;
   border-radius: 20px;
-  transition: width 2s, height 2s, background-color 2s, transform 2s;
+  transition: width 2s, height 2s, background-color 2s, transform 1000ms;
 }
 .service img {
   width: 100%;
+  height: 300px;
   border-radius: 20px;
 }
 
@@ -18,5 +19,6 @@
 
   background: red;
 
-  transform: rotate(360deg);
+  /* transform: rotate(360deg); */
+  transform: scale(1.1);
 }

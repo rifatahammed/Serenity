@@ -1,3 +1,9 @@
-.about {
-  margin-top: 50px;
+.about img {
+  width: 250px;
+  height: 250px;
+  transition: transform 1000ms;
+}
+
+.about img:hover {
+  transform: scale(1.1);
 }

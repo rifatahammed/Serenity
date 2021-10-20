@@ -1,0 +1,10 @@
+.menu {
+  margin-bottom: 50px;
+}
+.nav-link {
+  color: aliceblue;
+}
+
+.nav-link:hover {
+  color: greenyellow;
+}

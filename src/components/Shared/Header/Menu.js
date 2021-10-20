@@ -3,10 +3,11 @@ import { Button, Navbar, Container, Nav } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import useAuth from "../../../hooks/useAuth";
 import { HashLink } from "react-router-hash-link";
+import "./Menu.css";
 const Menu = () => {
   const { user, logOut } = useAuth();
   return (
-    <div>
+    <div className="menu">
       <>
         <Navbar
           bg="dark"
